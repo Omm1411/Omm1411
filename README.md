@@ -9,21 +9,16 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝      ╚═╝    ╚═════╝  ╚════╝ ╚═╝  ╚═╝   ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Data Analyst;Building things on the internet;Building+Software Engineering Student | DSA & Problem Solving" alt="Typing SVG"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Data%20Analyst;Building%20things%20on%20the%20internet;Software%20Engineering%20Student%20%7C%20DSA%20%26%20Problem%20Solving" alt="Typing SVG" />
+</a>
+
 </div>
-
-## ⌨️ About Me
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Data%20Analyst%3BBuilding%20things%20on%20the%20internet%3BBuilding%20Software%20Engineering%20Student%20%7C%20DSA%20%26%20Problem%20Solving" alt="Typing SVG" />
-  </a>
-</p>
 
 ## 🤝 Connect with me
 
 <p align="center">
-    
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omm1411)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrytyunjay-sarangi-22457a1b6/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/here_we_go1411/)
@@ -32,20 +27,20 @@
 ## ⚡ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=C,C++,R,HTML,CSS,JavaScript,PostgreSQL&perline=8&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,r,html,css,js,postgres&perline=8&theme=dark"/>
 </p>
 
 ## 📈 Stats
 
 <p align="center">
-  <img src="https://github-readmeapp.vercel.app/api?username=Omm1411&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="160"/>
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Omm1411&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Omm1411&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omm1411&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" height="160"/>
 </p>
 
 ## 🌐 Top Languages
 
 <p align="center">
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Omm1411&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omm1411&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9"/>
 </p>
 
 ## 🔥 Streak
@@ -72,8 +67,7 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| PlaceTrack | PlaceTrack is a full-stack college placement management system designed to streamline the campus recruitment process for students, placement coordinators, and recruiters. The platform centralizes student profiles, company drives, job applications, and placement records into a single, easy-to-use interface.  Features Student profile management Company drive creation and management Job application tracking Role-based authentication for students, coordinators, and recruiters Dashboard for monitoring placement activities Normalized PostgreSQL database for efficient data management Responsive and intuitive user interface | [View](YOUR_PROJECT_1_DEMO) |
-
+| PlaceTrack | PlaceTrack is a full-stack college placement management system designed to streamline the campus recruitment process for students, placement coordinators, and recruiters. The platform centralizes student profiles, company drives, job applications, and placement records into a single, easy-to-use interface. Features: student profile management, company drive creation and management, job application tracking, role-based authentication for students, coordinators, and recruiters, dashboard for monitoring placement activities, normalized PostgreSQL database for efficient data management, responsive and intuitive user interface. | [View](YOUR_PROJECT_1_DEMO) |
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Omm1411&style=flat-square&color=00FF41" alt="Profile views"/>

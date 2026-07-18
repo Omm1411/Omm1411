@@ -73,7 +73,7 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | PlaceTrack | PlaceTrack is a full-stack college placement management system designed to streamline the campus recruitment process for students, placement coordinators, and recruiters. The platform centralizes student profiles, company drives, job applications, and placement records into a single, easy-to-use interface.  Features Student profile management Company drive creation and management Job application tracking Role-based authentication for students, coordinators, and recruiters Dashboard for monitoring placement activities Normalized PostgreSQL database for efficient data management Responsive and intuitive user interface | [View](YOUR_PROJECT_1_DEMO) |
-| YOUR_PROJECT_2 | YOUR_PROJECT_2_DESC | [View](YOUR_PROJECT_2_DEMO) |
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Omm1411&style=flat-square&color=00FF41" alt="Profile views"/>
